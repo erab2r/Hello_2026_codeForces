@@ -12,7 +12,6 @@ typedef long long int ll;
 #define sz(v) (int)v.size()
 #define all(v) v.begin(),v.end()
 #define pii pair<int,int>
-
 int dx[]={0,1,0,-1};
 int dy[]={1,0,-1,0};
 
