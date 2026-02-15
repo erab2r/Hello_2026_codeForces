@@ -15,6 +15,7 @@ typedef long long int ll;
 int dx[]={0,1,0,-1};
 int dy[]={1,0,-1,0};
 
+
 void solve(int test_case){
     int n,k; cin>>n>>k;
     vector<int> v(n);
