@@ -4,7 +4,6 @@
 #include <bits/stdc++.h>
 #define dbg(...)
 #endif
-
 using namespace std;
 typedef long long int ll;
 #define nl "\n"
