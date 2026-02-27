@@ -27,7 +27,9 @@ void solve(int test_case){
 }
 int main(){
     ios_base::sync_with_stdio(0);cout.tie(nullptr);cin.tie(nullptr);
-    int t; cin>>t;
-    for(int tc=1; tc<=t; tc++) solve(tc);
+    int t; 
+    cin>>t;
+    for(int tc=1; tc<=t; tc++) 
+        solve(tc);
     return 0;
 }
