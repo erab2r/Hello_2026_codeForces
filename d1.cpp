@@ -18,7 +18,6 @@ vector<int> adj[nmax];
 int cnt[nmax];
 set<int> par[nmax];
 int mx = 0;
-
 void dfs(int u, int p, int d){
     mx = max(mx, d);
     cnt[d]++;
