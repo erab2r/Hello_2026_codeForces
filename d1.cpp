@@ -13,6 +13,7 @@ typedef long long int ll;
 #define all(v) v.begin(),v.end()
 #define pii pair<int,int>
 
+
 const int nmax = 2e5+5;
 vector<int> adj[nmax];
 int cnt[nmax];
